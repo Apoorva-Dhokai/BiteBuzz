@@ -11,3 +11,7 @@ https://github.com/NandiniAgrawal01/BiteBuzz-frontend
 
 **BACKEND**
 https://github.com/NandiniAgrawal01/BiteBuzz-backend
+
+## Technologies Used
+  Frontend: HTML, CSS, JavaScript, Typescript, Tailwind
+  Backend: Typescript, MongoDB
